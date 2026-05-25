@@ -7,7 +7,26 @@
 
 "효율적인 서버 아키텍처와 깔끔한 비즈니스 로직을 지향합니다."
 
-<br>
+</div>
+
+---
+
+### 🚀 About Me
+* ☕ **Java / Spring Boot** 기반의 웹 애플리케이션 개발과 **JPA/Querydsl**을 이용한 쿼리 최적화에 관심이 많습니다.
+* 🛠️ 프로젝트에 **AWS S3, Github Actions**를 도입하여 안정적인 빌드 및 배포 파이프라인을 구축한 경험이 있습니다.
+* 📊 **K6와 Grafana**를 활용한 성능 테스트 및 모니터링 환경 구축에 흥미를 느끼고 공부 중입니다.
+* 🤖 **AI 기반의 도구들을 개발 및 협업 프로세스에 적극적으로 도입**하여, 코드 퀄리티를 유지하면서도 **개발 생산성을 극대화**하는 스마트한 업무 방식을 지향합니다.
+
+---
+
+<div align=center>
+
+### 📬 Contact
+<a href="mailto:ehgns630@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br><br>
 
 <table align="center">
   <tr>
