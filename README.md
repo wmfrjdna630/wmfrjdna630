@@ -1,4 +1,3 @@
-<!-- 상단 헤더 웨이브 애니메이션 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Lee%20Do-hun's%20GitHub&fontSize=42" />
 
 <div align=center>
@@ -9,23 +8,49 @@
 
 <br>
 
-<!-- 📚 기술 스택 섹션 -->
-📅 **Backend & Database**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
-
-☁️ **Infrastructure & Tools**  
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
-
-💻 **Frontend (Co-work)**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+<table align="center">
+  <tr>
+    <th width="180" align="center">Category</th>
+    <th width="600" align="center">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">Languages</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">Backend</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">Frontend</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">Infrastructure</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">Collaboration</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">Development Tools</td>
+    <td>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">AI</td>
+    <td>
+      <!-- 주석을 지우고 여기에 찾으신 배지 코드를 그대로 붙여넣으세요 -->
+      ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+      </td>
+  </tr>
+</table>
 
 <br>
 
