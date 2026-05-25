@@ -29,6 +29,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&langs_count=4&layout=compact&theme=dark)](https://github.com/wmfrjdna630)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfrjdna630&langs_count=4&layout=compact&theme=dark)](https://github.com/wmfrjdna630)
 
 </div>
