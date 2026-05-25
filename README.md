@@ -29,8 +29,11 @@
 
 <br>
 
-<!-- 📊 깃허브 활동 및 언어 통계 카드 -->
-![GitHub 스탯](https://github-readme-stats.vercel.app/api?username=wmfrjdna630&show_icons=true&theme=dark)
-![자주 사용하는 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfrjdna630&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=wmfrjdna630&show_icons=true&theme=dark" alt="GitHub 스탯" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wmfrjdna630&layout=compact&theme=dark" alt="자주 사용하는 언어" />
+</p>
 
 </div>
