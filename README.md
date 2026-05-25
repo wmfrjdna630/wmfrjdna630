@@ -30,7 +30,7 @@
 <br>
 
 <!-- 📊 깃허브 활동 및 언어 통계 카드 -->
-![도훈님의 GitHub 스탯](https://github-readme-stats.vercel.app/api?username=wmfrjdna630&show_icons=true&theme=dark)
+![GitHub 스탯](https://github-readme-stats.vercel.app/api?username=wmfrjdna630&show_icons=true&theme=dark)
 ![자주 사용하는 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfrjdna630&layout=compact&theme=dark)
 
 </div>
