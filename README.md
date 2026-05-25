@@ -21,7 +21,7 @@
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 
 💻 **Frontend (Co-work)**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
@@ -29,6 +29,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfrjdna630&langs_count=4&layout=compact&theme=dark)](https://github.com/wmfrjdna630)
+<!-- 📊 깃허브 활동 및 언어 통계 카드 -->
+![도훈님의 GitHub 스탯](https://github-readme-stats.vercel.app/api?username=wmfrjdna630&show_icons=true&theme=dark)
+![자주 사용하는 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfrjdna630&layout=compact&theme=dark)
 
 </div>
