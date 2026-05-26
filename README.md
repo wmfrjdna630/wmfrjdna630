@@ -1,21 +1,34 @@
-<!-- 상단 헤더 웨이브 애니메이션 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Lee%20Do-hun's%20GitHub&fontSize=42" />
 
 <div align=center>
 
 ### 반갑습니다! 백엔드 개발자 이도훈입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 
-"효율적인 서버 아키텍처와 깔끔한 비즈니스 로직을 지향합니다."
+**"전체 가입자 10만 명 규모를 타깃으로, 이벤트 마감 시 발생하는 5배의 피크 트래픽을 견디는 시스템을 설계하고 검증하는 개발자입니다."**
+
+<br>
+
+**Target System Spec (K6 Verified)** `Total Users 100K` | `DAU 10,000` | `Peak 250 RPS` | `동시 접속자 약 500명 부하 제어`
 
 </div>
 
 ---
 
 ### 🚀 About Me
-* **Java / Spring Boot** 기반의 웹 애플리케이션 개발과 **JPA/Querydsl**을 이용한 쿼리 최적화에 관심이 많습니다.
-* 프로젝트에 **AWS S3, Github Actions**를 도입하여 안정적인 빌드 및 배포 파이프라인을 구축한 경험이 있습니다.
-* **K6와 Grafana**를 활용한 성능 테스트 및 모니터링 환경 구축에 흥미를 느끼고 공부 중입니다.
-* **AI 기반의 도구들을 개발 및 협업 프로세스에 적극적으로 도입**하여, 코드 퀄리티를 유지하면서도 **개발 생산성을 극대화**하는 스마트한 업무 방식을 지향합니다.
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/Java/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></td>
+    <td>대용량 트래픽을 고려한 백엔드 시스템을 설계하고 개발합니다.</td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/K6 / Grafana-7D64FF?style=flat-square&logo=k6&logoColor=white"/></td>
+    <td>리틀의 법칙을 적용해 커넥션 풀 병목을 직접 발견하고 해결했습니다.</td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://img.shields.io/badge/AWS S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/></td>
+    <td>이미지 업로드 파이프라인을 구현한 경험이 있습니다.</td>
+  </tr>
+</table>
 
 ---
 
